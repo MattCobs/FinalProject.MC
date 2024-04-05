@@ -1,1 +1,3 @@
 # FinalProject.MC
+What I want to do as my final project is based on a web that serves as an app to look up data on how the weather is, like Weather on Apple, putting only the city or if I do it differently with the zip code. I will do this using API
+I will do everything little by little, I'm not sure of the dates of how I will do it, because I'm a person who does little by little and not in a planned way.
